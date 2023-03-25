@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(81, 81, 1);
+}
+<style>
+        #first{
+            background-color: aqua;
+        }
+        .red{
+            color: rgb(111, 39, 39);
+        }
+        .bg-blue{
+            color: rgb(252, 252, 252);
+            background-color: blueviolet;
+        }
+    </style>
